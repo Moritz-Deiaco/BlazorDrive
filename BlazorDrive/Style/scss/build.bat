@@ -1,0 +1,1 @@
+﻿sass main.scss ../build/css/theme.css --style=compressed
